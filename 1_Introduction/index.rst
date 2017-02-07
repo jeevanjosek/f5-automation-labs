@@ -1,4 +1,4 @@
-Jeevan Automation & Orchestration - Introduction
+Jeevan J Automation & Orchestration - Introduction
 ============================================
 
 .. toctree::
